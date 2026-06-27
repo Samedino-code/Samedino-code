@@ -60,4 +60,4 @@ I love building clean software architecture, diving deep into relational databas
 
 ## 📬 Let's Connect!
 - 💼 **LinkedIn:** www.linkedin.com/in/sam-boergmann
-- 📧 **Email:**  coming soon
+- 📧 **Email:**    hostmaster@boergmann.tech
